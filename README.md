@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Matin 👋
 
-<!--
-**MatinBreach/MatinBreach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student**  
+💻 Passionate about **Python**, **Machine Learning**, **Data Analysis**, and **Cybersecurity**  
+🚀 Always learning, building, and experimenting with new ideas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🌱 Currently learning: Python, Git/GitHub, Data Analysis, and basic Machine Learning  
+- 🧠 Interested in problem-solving, algorithms, and real-world applications of AI  
+- 🛠 I enjoy creating small useful tools and exploring open-source projects  
+- 🎯 Goal: Become a skilled software engineer with strong foundations
+
+---
+
+## 🧰 Tech Stack & Tools
+**Languages:** Python, C/C++ (basic), HTML/CSS  
+**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
+**Libraries:** Pandas, NumPy, Matplotlib (beginner)
+
+---
+
+## 🗂 What You’ll Find in My GitHub
+- Clean & organized repositories  
+- Step-by-step commit history  
+- Documented projects with explanations  
+- Continuous learning and improvement  
+- A mix of academic and personal projects
